@@ -1,4 +1,3 @@
-
 ## Binance Part 1 -  Websockets and Real-Time Lightweight Charts
 
 * What is binance and how does it compare to other exchanges? 
@@ -21,6 +20,8 @@
 * test some indicators against a historical dataset
 * plot some pretty charts with buy and sell points, results
 
+![Screenshot 2025-01-19 205849](https://github.com/user-attachments/assets/e369d3ca-3b72-4ae9-862e-633921c8100a)
+
 ## Binance Part 4 - Building an API for indicator settings
 
 * API endpoint to save / persist indicator and notification settings
@@ -31,4 +32,3 @@
 ## Binance Part 5 - Finishing up
 
 * Add stuff to UI
-
